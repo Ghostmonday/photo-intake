@@ -2,10 +2,9 @@
   "name": "photo-intake",
   "version": "1.0.0",
   "description": "Never see 'Could not process that file' again. 13-point image upload processor with auto EXIF correction, blur detection, smart compression, and graceful fallbacks.",
-  "main": "dist/TicketUploadCapture.js",
-  "types": "dist/TicketUploadCapture.d.ts",
+  "main": "src/TicketUploadCapture.tsx",
+  "types": "src/TicketUploadCapture.tsx",
   "files": [
-    "dist/",
     "src/",
     "README.md"
   ],

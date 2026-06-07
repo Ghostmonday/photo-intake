@@ -127,6 +127,12 @@ Drag a photo onto the demo page and watch it get processed in real time — EXIF
 
 ---
 
+## ☕ Support
+
+If this package saves you from shipping a "could not process that file" error, consider [sponsoring the project](https://github.com/sponsors/Ghostmonday). Your support keeps the fix alive.
+
+---
+
 ## License
 
 MIT — free for personal and commercial use. Go build something.
