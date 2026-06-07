@@ -1,0 +1,39 @@
+{
+  "name": "photo-intake",
+  "version": "1.0.0",
+  "description": "Never see 'Could not process that file' again. 13-point image upload processor with auto EXIF correction, blur detection, smart compression, and graceful fallbacks.",
+  "main": "dist/TicketUploadCapture.js",
+  "types": "dist/TicketUploadCapture.d.ts",
+  "files": [
+    "dist/",
+    "src/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "file-upload",
+    "image-processing",
+    "exif",
+    "compression",
+    "drag-and-drop",
+    "react",
+    "camera-capture",
+    "pdf-upload",
+    "blur-detection",
+    "photo-upload",
+    "intake"
+  ],
+  "author": "Ghostmonday",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghostmonday/photo-intake"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  }
+}
